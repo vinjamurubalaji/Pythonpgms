@@ -18,3 +18,6 @@ git checkout -b branchname
 
 commiting new branch creation to github
 git push --set-upstream origin branchname
+
+command to change branch 
+git checkout branchname
