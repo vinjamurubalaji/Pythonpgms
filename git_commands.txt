@@ -6,3 +6,9 @@ git remote -v
 
 --to add files--
 git add .
+
+commit files
+git commit -m "enter the comments"
+
+push
+git push origin master
