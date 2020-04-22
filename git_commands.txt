@@ -1,0 +1,8 @@
+ls
+cd
+git init
+git remote add origin "http link"
+git remote -v
+
+--to add files--
+git add .
