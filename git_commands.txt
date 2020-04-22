@@ -21,3 +21,6 @@ git push --set-upstream origin branchname
 
 command to change branch 
 git checkout branchname
+
+command to merge the branch
+git merge branchname
