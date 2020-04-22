@@ -12,3 +12,9 @@ git commit -m "enter the comments"
 
 push
 git push origin master
+
+creating new branch 
+git checkout -b branchname
+
+commiting new branch creation to github
+git push --set-upstream origin branchname
